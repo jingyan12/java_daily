@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39523d97-c329-4ebc-bc92-b688d98a1d7c" name="Default Changelist" comment="" />
+    <list default="true" id="39523d97-c329-4ebc-bc92-b688d98a1d7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day01/src/java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j97P7VwQEhLI43Ctk0Ge7Zz0Ke" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,7 +30,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java课" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -54,6 +66,12 @@
       <option name="presentableId" value="Default" />
       <updated>1603204426357</updated>
       <workItem from="1603204429881" duration="766000" />
+      <workItem from="1603286401784" duration="10000" />
+      <workItem from="1603286442123" duration="41000" />
+      <workItem from="1603292716135" duration="222000" />
+      <workItem from="1603292959548" duration="50000" />
+      <workItem from="1603326371569" duration="777000" />
+      <workItem from="1603376933128" duration="222000" />
     </task>
     <servers />
   </component>
@@ -61,10 +79,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1603205196145">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1603376988977">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603205196145" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603376988977" />
     <state width="1236" height="155" key="GridCell.Tab.0.bottom" timestamp="1603205197692">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -81,5 +99,13 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1236" height="155" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603205197691" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1603376934364">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1603376934364" />
+    <state x="28" y="0" key="new project wizard" timestamp="1603292808002">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1603292808002" />
   </component>
 </project>
