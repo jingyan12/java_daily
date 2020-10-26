@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39523d97-c329-4ebc-bc92-b688d98a1d7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day06/ReceptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/BaseEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/BaseEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/FileCopyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day07/MarkEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/java打卡.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -29,6 +36,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -98,6 +109,7 @@
       <workItem from="1603462771832" duration="258000" />
       <workItem from="1603549619904" duration="2117000" />
       <workItem from="1603636815656" duration="1520000" />
+      <workItem from="1603705521175" duration="1250000" />
     </task>
     <servers />
   </component>
@@ -109,6 +121,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1603549901039" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1603706599974">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603706599974" />
     <state width="1237" height="2" key="GridCell.Tab.0.bottom" timestamp="1603377357432">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -133,5 +149,13 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1603283338833" />
+    <state x="349" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1603706181961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1603706181961" />
+    <state x="28" y="0" key="new project wizard" timestamp="1603706602032">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1603706602032" />
   </component>
 </project>
