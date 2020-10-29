@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cc80224-6daf-4829-9c22-b54a6604c14b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day01/src/day07/BaseEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/day07/BaseEmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/day07/FileCopyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01/src/day07/MarkEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java打卡.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day01/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/day01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day01/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,10 +41,21 @@
       <updated>1603706602105</updated>
       <workItem from="1603706603537" duration="168000" />
       <workItem from="1603706827074" duration="5000" />
+      <workItem from="1603718776483" duration="141000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="81" key="FileChooserDialogImpl" timestamp="1603718897736">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603718897736" />
+    <state x="28" y="0" key="new project wizard" timestamp="1603718902041">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1603718902041" />
   </component>
 </project>
